@@ -1,2 +1,2 @@
 # Db2-UDOO-X86
-Repository for files used with "Project Pollinator"
+Repository for files used with the "Project Pollinator" UDOO X86 maker project.
